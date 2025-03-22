@@ -1,2 +1,3 @@
-# Linux
-Everything for Linux
+# Everything for Linux
+![logo](./images/linux-logo.png)
+
